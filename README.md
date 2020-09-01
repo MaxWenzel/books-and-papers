@@ -24,6 +24,7 @@ Anyone who builds Java services needs a basic understanding of concurrency. If y
 Best practices for delivering robust software that doesn't fail in the production environment.
 - [Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.de/UML-Distilled-Standard-Addison-wesley-Technology/dp/0321193687/):
 Learn how to use UML in a pragmatic way. This very short book covers everything you ever need to know on the subject.
+- [Fowler, Patterns of Enterprise Application Architecture](https://www.amazon.de/Martin-Fowler/dp/0321127420/)
 - [Grikorik, High Performance Browser Networking](https://hpbn.co/):
 This online book covers networking in general (not just browser-based) and gives you all the basics you'd typically learn in a two-semester networking course.
 - [Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/):
