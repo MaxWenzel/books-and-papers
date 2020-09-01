@@ -1,4 +1,4 @@
-# books-and-papers
+# Books and Papers
 Must-read books and papers for developers
 
 ## Books
