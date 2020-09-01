@@ -30,6 +30,20 @@ This online book covers networking in general (not just browser-based) and gives
 - [Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/):
 How to model your business domain in alignment with your business stakeholders. One of the most influential books in software design to date.
 
+### Online
+
+- [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
+- [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
+- [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
+- [The outstanding developer](https://theoutstanding.dev/): boost your soft skills to become a better developer
+
+### Free eBooks
+
+- [Kong](https://konghq.com/resources/)
+- [NginX](https://www.nginx.com/resources/library/)
+- [O'Reilly](https://www.oreilly.com/free/)
+- []():
+
 ## Papers
 
 You can find many of the following papers also here: [Papers we love](https://github.com/papers-we-love/papers-we-love)
