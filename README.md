@@ -33,4 +33,11 @@ How to model your business domain in alignment with your business stakeholders. 
 
 You can find many of the following papers also here: [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
+- [Carl Hewitt: Actor Model of Computation](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf): The Actor model is a mathematical theory that treats “Actors” as the universal primitives of concurrent digital computation.
 - [Carl Hewitt, Peter Bishop, Richard Steiger: A Universal Modular Actor Formalism for Artificial Intelligence](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.77.7898): This paper proposes a modular ACTOR architecture and definitional method for artificial intelligence that is conceptually based on a single kind of object: actors. 
+
+
+## Resources
+
+- [arXiv.org](https://arxiv.org/): arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.
+- [Google Research](https://research.google/pubs/)
