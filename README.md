@@ -1,7 +1,9 @@
 # books-and-papers
 Must-read books and papers for developers
 
-## Essentials
+## Books
+
+### Essentials
 These are the essentials; any first-year junior developer should have read them:
 
 - [Thomas & Hunt, The Pragmatic Programmer](https://www.amazon.de/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/):
@@ -11,7 +13,7 @@ Writing code so that not only the compiler understands it. Essential practices t
 - [Bloch, Effective Java](https://www.amazon.de/Effective-Java-Joshua-Bloch/dp/0134685997/):
 If you're programming Java, you have to read this book. Best Practices on how to use the language by Josh Bloch, who designed many features in modern Java.
 
-## Advanced Topics
+### Advanced Topics
 Pick and choose depending what you need and/or are interested in:
 
 - [Gamma et al, Design Patterns. Elements of Reusable Object-Oriented Software](https://www.amazon.de/Erich-Gamma/dp/0201633612/):
@@ -26,3 +28,9 @@ Learn how to use UML in a pragmatic way. This very short book covers everything 
 This online book covers networking in general (not just browser-based) and gives you all the basics you'd typically learn in a two-semester networking course.
 - [Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/):
 How to model your business domain in alignment with your business stakeholders. One of the most influential books in software design to date.
+
+## Papers
+
+You can find many of the following papers also here: [Papers we love](https://github.com/papers-we-love/papers-we-love)
+
+- [Carl Hewitt, Peter Bishop, Richard Steiger: A Universal Modular Actor Formalism for Artificial Intelligence](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.77.7898): This paper proposes a modular ACTOR architecture and definitional method for artificial intelligence that is conceptually based on a single kind of object: actors. 
