@@ -48,8 +48,20 @@ How to model your business domain in alignment with your business stakeholders. 
 
 You can find many of the following papers also here: [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
+### Actors
+
 - [Carl Hewitt: Actor Model of Computation](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf): The Actor model is a mathematical theory that treats “Actors” as the universal primitives of concurrent digital computation.
 - [Carl Hewitt, Peter Bishop, Richard Steiger: A Universal Modular Actor Formalism for Artificial Intelligence](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.77.7898): This paper proposes a modular ACTOR architecture and definitional method for artificial intelligence that is conceptually based on a single kind of object: actors. 
+
+### AI
+
+- [Lin, Ma et al.: Explaining AlphaGo: Interpreting Contextual Effects in Neural Networks](https://arxiv.org/abs/1901.02184): Google Alpha Go
+- [Superhuman AI for multiplayer poker](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf): Poker AI
+
+### Difference 
+
+- [Eugen W. Myers: An O(ND) Difference Algorithm and Its Variations](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.6927): finding a longest common subsequence of two sequences A and B and a shortest edit script for transforming A into B have long been known to be dual problems
+- [Keil: ](https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2018/12/btw2019-jmkeil-camera-ready.pdf): Efficient Bounded Jaro-Winkler Similarity Based Search
 
 
 ## Resources
