@@ -36,6 +36,7 @@ How to model your business domain in alignment with your business stakeholders. 
 - [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
 - [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
 - [The outstanding developer](https://theoutstanding.dev/): boost your soft skills to become a better developer
+- [Scala from Scratch](https://leanpub.com/scala-from-scratch-exploration)
 
 ### Free eBooks
 
