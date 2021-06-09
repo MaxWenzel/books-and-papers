@@ -29,6 +29,7 @@ Learn how to use UML in a pragmatic way. This very short book covers everything 
 This online book covers networking in general (not just browser-based) and gives you all the basics you'd typically learn in a two-semester networking course.
 - [Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/):
 How to model your business domain in alignment with your business stakeholders. One of the most influential books in software design to date.
+- [Hohpe, Woolf: Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683): Enterprise Integration Patterns provides an invaluable catalog of sixty-five patterns, with real-world solutions that demonstrate the formidable of messaging and help you to design effective messaging solutions for your enterprise.
 
 ### Online
 
@@ -43,7 +44,7 @@ How to model your business domain in alignment with your business stakeholders. 
 - [Kong](https://konghq.com/resources/)
 - [NginX](https://www.nginx.com/resources/library/)
 - [O'Reilly](https://www.oreilly.com/free/)
-- []():
+
 
 ## Papers
 
