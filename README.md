@@ -38,6 +38,7 @@ How to model your business domain in alignment with your business stakeholders. 
 - [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
 - [The outstanding developer](https://theoutstanding.dev/): boost your soft skills to become a better developer
 - [Scala from Scratch](https://leanpub.com/scala-from-scratch-exploration)
+- [OAuth 2.0 Simplified](https://www.oauth.com/): a guide to building an OAuth 2.0 server. Through high-level overviews, step-by-step instructions, and real-world examples, you will learn how to take advantage of the OAuth 2.0 framework while building a secure API.
 
 ### Free eBooks
 
