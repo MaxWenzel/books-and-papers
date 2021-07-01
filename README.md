@@ -67,6 +67,10 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [Eugen W. Myers: An O(ND) Difference Algorithm and Its Variations](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.6927): finding a longest common subsequence of two sequences A and B and a shortest edit script for transforming A into B have long been known to be dual problems
 - [Keil: ](https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2018/12/btw2019-jmkeil-camera-ready.pdf): Efficient Bounded Jaro-Winkler Similarity Based Search
 
+## Data
+
+- [DBLog: A Watermark Based Change-Data-Capture Framework](https://arxiv.org/abs/2010.12597#:~:text=DBLog%20utilizes%20a%20watermark%20based,without%20stalling%20while%20processing%20selects.)
+
 
 ## Resources
 
