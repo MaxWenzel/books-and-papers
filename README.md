@@ -72,6 +72,9 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [DBLog: A Watermark Based Change-Data-Capture Framework](https://arxiv.org/abs/2010.12597#:~:text=DBLog%20utilizes%20a%20watermark%20based,without%20stalling%20while%20processing%20selects.)
 - [Online EventProcessing](https://martin.kleppmann.com/papers/olep-cacm.pdf)
 
+## Security
+
+- [Fast Dictionary Attacks on Passwords Using Time-Space Tradeoff](https://www.cs.utexas.edu/~shmat/shmat_ccs05pwd.pdf)
 
 ## Resources
 
