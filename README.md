@@ -72,6 +72,17 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [DBLog: A Watermark Based Change-Data-Capture Framework](https://arxiv.org/abs/2010.12597#:~:text=DBLog%20utilizes%20a%20watermark%20based,without%20stalling%20while%20processing%20selects.)
 - [Online EventProcessing](https://martin.kleppmann.com/papers/olep-cacm.pdf)
 
+## Google
+
+- [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/): Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines.
+- [The Google File System](https://research.google/pubs/pub51/): a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
+- [Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/): Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers.
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google/pubs/pub36356/): Modern Internet services are often implemented as complex, large-scale distributed systems. These applications are constructed from collections of software modules that may be developed by different teams, perhaps in different programming languages, and could span many thousands of machines across multiple physical facili- ties. Tools that aid in understanding system behavior and reasoning about performance issues are invaluable in such an environment.
+- [Spanner](https://research.google/pubs/pub44915/): Spanner is Google’s scalable, multiversion, globally distributed, and synchronously replicated database. 
+- []():
+- []():
+- []():
+
 ## Security
 
 - [Fast Dictionary Attacks on Passwords Using Time-Space Tradeoff](https://www.cs.utexas.edu/~shmat/shmat_ccs05pwd.pdf)
