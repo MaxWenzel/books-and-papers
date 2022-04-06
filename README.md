@@ -79,9 +79,8 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/): Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers.
 - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google/pubs/pub36356/): Modern Internet services are often implemented as complex, large-scale distributed systems. These applications are constructed from collections of software modules that may be developed by different teams, perhaps in different programming languages, and could span many thousands of machines across multiple physical facili- ties. Tools that aid in understanding system behavior and reasoning about performance issues are invaluable in such an environment.
 - [Spanner](https://research.google/pubs/pub44915/): Spanner is Google’s scalable, multiversion, globally distributed, and synchronously replicated database. 
-- []():
-- []():
-- []():
+- [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/pub45424/): Google's monolithic repository provides a common source of truth for tens of thousands of developers around the world.
+- [Spanner, TrueTime and the CAP Theorem](https://research.google/pubs/pub45855/): Spanner is Google's highly available global-scale distributed database. It provides strong consistency for all transactions. This combination of availability and consistency over the wide area is generally considered impossible due to the CAP Theorem. We show how Spanner achieves this combination and why it is consistent with CAP. We also explore the role that TrueTime, Google's globally synchronized clock, plays in consistency for reads and especially for snapshots that enable consistent and repeatable analytics.
 
 ## Security
 
