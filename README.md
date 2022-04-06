@@ -62,6 +62,10 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [Lin, Ma et al.: Explaining AlphaGo: Interpreting Contextual Effects in Neural Networks](https://arxiv.org/abs/1901.02184): Google Alpha Go
 - [Superhuman AI for multiplayer poker](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf): Poker AI
 
+## Amazon
+
+- [Dynamo: Amazon's highly available key-value store](https://www.researchgate.net/publication/220910159_Dynamo_Amazon's_highly_available_key-value_store): This paper presents the design and implementation of Dynamo, a highly available key-value storage system that some of Amazon's core services use to provide an "always-on" experience.
+
 ### Difference 
 
 - [Eugen W. Myers: An O(ND) Difference Algorithm and Its Variations](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.6927): finding a longest common subsequence of two sequences A and B and a shortest edit script for transforming A into B have long been known to be dual problems
