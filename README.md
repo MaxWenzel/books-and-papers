@@ -40,6 +40,7 @@ How to model your business domain in alignment with your business stakeholders. 
 - [Scala from Scratch](https://leanpub.com/scala-from-scratch-exploration)
 - [OAuth 2.0 Simplified](https://www.oauth.com/): a guide to building an OAuth 2.0 server. Through high-level overviews, step-by-step instructions, and real-world examples, you will learn how to take advantage of the OAuth 2.0 framework while building a secure API.
 - [Dev Concepts](https://dev-concepts.dev/): a 12 volumes e-book collection explaining every concept of Software Development
+- [Getting Real](https://basecamp.com/books/getting-real): A must read for anyone building a web app. 
 
 ### Free eBooks
 
