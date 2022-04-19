@@ -92,6 +92,7 @@ You can find many of the following papers also here: [Papers we love](https://gi
 
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf): Paxos algorithm for implementing a fault-tolerant distributed system
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf): Paxos algorithm for implementing a fault-tolerant distributed system
+- [Fallacies of distributed computing](https://web.archive.org/web/20171107014323/http://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/): a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
  
 ## Security
 
