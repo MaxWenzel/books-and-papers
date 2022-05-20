@@ -87,6 +87,7 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/pub45424/): Google's monolithic repository provides a common source of truth for tens of thousands of developers around the world.
 - [Spanner, TrueTime and the CAP Theorem](https://research.google/pubs/pub45855/): Spanner is Google's highly available global-scale distributed database. It provides strong consistency for all transactions. This combination of availability and consistency over the wide area is generally considered impossible due to the CAP Theorem. We show how Spanner achieves this combination and why it is consistent with CAP. We also explore the role that TrueTime, Google's globally synchronized clock, plays in consistency for reads and especially for snapshots that enable consistent and repeatable analytics.
 - [MapReduce](https://research.google/pubs/pub62/): MapReduce is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key. 
+- [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444): Lessons learned from three container-management systems over a decade
 
 ## Misc
 
