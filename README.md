@@ -97,6 +97,7 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [CQRS](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 - [Sagas Pattern](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
  - [The Limit of Sagas](https://www.ufried.com/blog/limits_of_saga_pattern/)
+ - [Scrum-Guide](https://scrumguides.org/index.html)
  
 ## Security
 
