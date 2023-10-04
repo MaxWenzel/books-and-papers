@@ -100,7 +100,7 @@ You can find many of the following papers also here: [Papers we love](https://gi
 - [The Limit of Sagas](https://www.ufried.com/blog/limits_of_saga_pattern/)
 - [Scrum-Guide](https://scrumguides.org/index.html)
 - [There is no Now](https://queue.acm.org/detail.cfm?id=2745385)
-- [CUPID—for joyful coding]{https://dannorth.net/cupid-for-joyful-coding/}
+- [CUPID—for joyful coding](https://dannorth.net/cupid-for-joyful-coding/)
  
 ## Security
 
