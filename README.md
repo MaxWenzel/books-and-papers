@@ -3,6 +3,8 @@ Must-read books and papers for developers
 
 ## Books
 
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books#system-architecture)
+
 ### Essentials
 These are the essentials; any first-year junior developer should have read them:
 
